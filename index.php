@@ -2,7 +2,7 @@
 <html>
 	<head>
   		<meta charset="utf-8" />
-  		<title>SHOUT IT! A very very simple PHP project</title>
+  		<title>SHOUT IT!</title>
 		<link rel="stylesheet" href="css/style.css" type="text/css" />
 	</head>
 	<body>
